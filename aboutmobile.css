@@ -1,0 +1,419 @@
+/* Tablet-View */
+@media only screen and (min-width: 481px) and (max-width:768px){
+    body{
+        background-image: url("background.jpg");
+       
+    }
+
+    nav {
+
+        display: flex;
+        margin-left: 59px;
+        margin-top: -98px;
+        align-items: center;
+        column-gap: 40px;
+        padding: 108px;
+      }
+      
+      
+      #logo {
+        height: 100px;
+        width:  100px;
+        margin-top: -10px;
+        margin-right: 20px;
+        margin-bottom: -10px;
+        margin-left: -70px;
+      }
+      
+      
+      .nav1 {
+      
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 9px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav1:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav2 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 9px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav2:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav3 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 9px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      }
+      
+      .nav3:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav4 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 6px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav4:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav5 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 8px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav5:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      .mypic {
+        display: flex;
+        width: 313px;
+        margin-left: 83px;
+        height: 482px;
+        margin-top: -87px;
+        transition: transform 1s;
+    }
+    #intro {
+        color: #e6e7e9;
+        font-weight: bold;
+        display: flex;
+        font-size: 27px;
+        font-family: courier;
+        margin-left: 453px;
+        margin-right: 331px;
+        margin-top: -490px;
+        background-color: black;
+        border-radius: 30px;
+        text-align: center;
+        height: 318px;
+    }
+
+    .flex-container {
+        display: flex;
+        flex-direction: row;
+        font-family:'Courier New', Courier, monospace;
+        justify-content: center;
+        font-size: 30px;
+        margin-top: 202px;
+        column-gap: 10px;
+    }
+    .one{
+    margin-right: 142px;
+    color: #e6e7e9;
+    
+    }
+    .two{
+      color: #e6e7e9;
+        margin-right: 142px;
+    }
+    
+    .three{
+      color: #e6e7e9;
+        margin-right: -10px;
+       
+    
+    }
+   
+    
+       
+    .four{
+      
+        margin-right: 251px;
+        margin-left: 275px;
+        border-radius: 17px;
+        background-color: black;
+      
+    }
+    
+    .four:hover{
+      background-color:#e6e7e9;
+      color: #000000;
+    transition: 0.7s;
+    }
+    
+    .five{
+        margin-left: -260px;
+        border-radius: 17px;
+        background-color: black;
+    }
+    .five:hover{
+      background-color:#e6e7e9;
+      color: #000000;
+    transition: 0.7s;
+    }
+    
+    .six{
+    margin-left: -240px;
+        border-radius: 17px;
+        background-color: black;
+    }
+    .six:hover{
+      background-color:#e6e7e9;
+      color: #000000;
+    transition: 0.7s;
+    }
+    .flex-container2 {
+        display: flex;
+        flex-direction: row;
+      column-gap: 171px;
+        font-family:'Courier New', Courier, monospace;
+        font-size: 25px;
+        color: #e6e7e9;
+        margin-left: -263px;
+       
+      }
+
+
+
+}
+
+
+/* Mobile-View */
+@media only screen and (min-width: 320px) and (max-width:480px){
+    body{
+        background-image: url("background.jpg");
+       
+    }
+
+    nav {
+
+        display: flex;
+        margin-left: 59px;
+        margin-top: -98px;
+        align-items: center;
+        column-gap: 40px;
+        padding: 108px;
+      }
+      
+      
+      #logo {
+        height: 100px;
+        width:  100px;
+        margin-top: -10px;
+        margin-right: 20px;
+        margin-bottom: -10px;
+        margin-left: -70px;
+      }
+      
+      
+      .nav1 {
+      
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 9px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav1:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav2 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 9px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav2:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav3 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 9px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      }
+      
+      .nav3:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav4 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 6px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav4:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav5 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 8px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav5:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      .mypic {
+        display: flex;
+        width: 313px;
+        margin-left: 83px;
+        height: 482px;
+        margin-top: -87px;
+        transition: transform 1s;
+    }
+    #intro {
+        color: #e6e7e9;
+        font-weight: bold;
+        display: flex;
+        font-size: 26px;
+        font-family: courier;
+        margin-left: 426px;
+        margin-right: 331px;
+        margin-top: -487px;
+        background-color: black;
+        border-radius: 30px;
+        text-align: center;
+        height: 318px;
+    }
+
+    .flex-container {
+        display: flex;
+        flex-direction: row;
+        font-family: 'Courier New', Courier, monospace;
+        justify-content: center;
+        font-size: 30px;
+        margin-top: 202px;
+        margin-left: 364px;
+        column-gap: -25px;
+    }
+    .one{
+ margin-left: -100px;
+    color: #e6e7e9;
+    
+    }
+    .two{
+      color: #e6e7e9;
+      margin-left: -90px;
+    }
+    
+    .three{
+      color: #e6e7e9;
+        margin-right: -100px;
+       
+    
+    }
+   
+    
+       
+    .four{
+      
+        margin-right: 251px;
+        margin-left: 319px;
+        border-radius: 17px;
+        background-color: black;
+      
+    }
+    
+    .four:hover{
+      background-color:#0055ff;
+      color: #000000;
+    transition: 0.7s;
+    }
+    
+    .five{
+        margin-left: -300px;
+        border-radius: 17px;
+        background-color: black;
+    }
+    .five:hover{
+      background-color:#0055ff;
+      color: #000000;
+    transition: 0.7s;
+    }
+    
+    .six{
+    margin-left: -250px;
+        border-radius: 17px;
+        background-color: black;
+    }
+    .six:hover{
+      background-color:hsl(220, 100%, 50%);
+      color: #000000;
+    transition: 0.7s;
+    }
+    .flex-container2 {
+        display: flex;
+        flex-direction: row;
+      column-gap: 171px;
+        font-family:'Courier New', Courier, monospace;
+        font-size: 25px;
+        color: #e6e7e9;
+        margin-left: -263px;
+       
+      }
+
+
+
+}

@@ -1,0 +1,320 @@
+/* Tablet-View */
+@media only screen and (min-width: 481px) and (max-width:768px){
+ 
+
+    nav {
+
+        display: flex;
+        margin-left: 59px;
+        margin-top: -98px;
+        align-items: center;
+        column-gap: 40px;
+        padding: 108px;
+      }
+      
+      
+      #logo {
+        height: 100px;
+        width:  100px;
+        margin-top: -10px;
+        margin-right: 20px;
+        margin-bottom: -10px;
+        margin-left: -70px;
+      }
+      
+      
+      .nav1 {
+      
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 9px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav1:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav2 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 9px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav2:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav3 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 9px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      }
+      
+      .nav3:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav4 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 6px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav4:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav5 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 8px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav5:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+
+
+  
+  .ed{
+  height: 600px;
+  width: 600px;
+  margin-left: 96px;
+  margin-top: -53px;
+  margin-bottom: 60px;
+  
+  }
+  .all {
+    height: 50vh;
+    margin-top: -70px;}
+    h1 {
+        font-style: oblique;
+        font-size: 35px;
+        margin-left: 910px;
+        margin-bottom: 603px;
+        margin-top: 89px;}
+  .merge{
+    display: flex;
+    flex-direction: column;
+   
+  }
+
+}
+
+/* Mobile-View */
+@media only screen and (min-width: 320px) and (max-width:480px){
+ 
+
+    nav {
+
+        display: flex;
+        margin-left: 59px;
+        margin-top: -98px;
+        align-items: center;
+        column-gap: 40px;
+        padding: 108px;
+      }
+      
+      
+      #logo {
+        height: 100px;
+        width:  100px;
+        margin-top: -10px;
+        margin-right: 20px;
+        margin-bottom: -10px;
+        margin-left: -70px;
+      }
+      
+      
+      .nav1 {
+      
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 9px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav1:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav2 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 9px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav2:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav3 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 9px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      }
+      
+      .nav3:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav4 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 6px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav4:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+      
+      .nav5 {
+        width: 50px;
+        height: 20px;
+        border-radius: 10px;
+        font-size: 8px;
+        font-family: 'Courier New', Courier, monospace;
+        border-color: #000000;
+      
+      }
+      
+      .nav5:hover {
+        background-color: #000000;
+        color: #e6e7e9;
+        transition: 0.9s;
+      }
+
+
+  
+  .ed{
+  height: 600px;
+  width: 600px;
+  margin-left: 96px;
+  margin-top: -53px;
+  margin-bottom: 60px;
+  
+  }
+
+  .all {
+    height: 18vh;
+    margin-top: -70px;
+}
+
+
+h1 {
+    font-style: oblique;
+    font-size: 35px;
+    margin-left: 797px;
+    margin-right: -254px;
+    margin-bottom: 602px;
+    margin-top: 210px;
+}
+
+
+    .flex-container {
+        display: flex;
+        flex-direction: row;
+        font-variant: small-caps;
+        justify-content: center;
+        column-gap: 100px;
+        font-size: 40px;
+        margin-left: 1003px;
+        margin-top: -547px;
+        margin-bottom: 464px;
+    }
+
+
+    .flex-container2 {
+        display: flex;
+        flex-direction: row;
+        font-variant: small-caps;
+        justify-content: center;
+        font-size: 20px;
+        margin-left: 987px;
+        margin-top: -407px;
+        margin-bottom: 400px;
+        column-gap: 114px;
+    }
+
+    .flex-container3 {
+        display: flex;
+        flex-direction: row;
+        font-variant: small-caps;
+        justify-content: center;
+        font-size: 20px;
+        margin-left: 986px;
+        margin-top: -368px;
+        margin-bottom: 335px;
+        column-gap: 127px;
+    }
+
+    .flex-container4 {
+        display: flex;
+        flex-direction: row;
+        font-variant: small-caps;
+        justify-content: center;
+        font-size: 20px;
+        margin-left: 987px;
+        margin-top: -314px;
+        margin-bottom: 333px;
+        column-gap: 107px;}
+
+
+  .merge{
+    display: flex;
+    flex-direction: column;
+   
+  }
+
+}
